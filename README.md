@@ -5,7 +5,7 @@
 ### 🚀 Autonomous AI Systems Engineer & Open-Source Agent Ecosystem Architect
 
 [![GitHub Followers](https://img.shields.io/github/followers/DewellNaa?label=Follow&style=for-the-badge&logo=github&color=24292e)](https://github.com/DewellNaa)
-[![PRs Open/Merged](https://img.shields.io/badge/Open_Source_PRs-18+-brightgreen?style=for-the-badge&logo=git&logoColor=white)](https://github.com/pulls?q=is%3Apr+author%3ADewellNaa)
+[![PRs Open/Merged](https://img.shields.io/badge/Open_Source_PRs-19+-brightgreen?style=for-the-badge&logo=git&logoColor=white)](https://github.com/pulls?q=is%3Apr+author%3ADewellNaa)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 <p align="center">
@@ -48,6 +48,7 @@ A curated showcase of core architectural contributions across Tier-1 AI Agent fr
 
 | Repository | PR | Focus & Key Technical Delivery | Status |
 | :--- | :--- | :--- | :---: |
+| **[dex](https://github.com/exmergo/dex)** | [#1012](https://github.com/exmergo/dex/pull/1012) | Refresh cached profile row count and byte size on reuse to accept volume changes (#985) | 🟢 Open |
 | **[dex](https://github.com/exmergo/dex)** | [#1011](https://github.com/exmergo/dex/pull/1011) | Transform plan inline `config()` scanner: blanking with offset and line preservation | 🟢 Open |
 | **[dex](https://github.com/exmergo/dex)** | [#1010](https://github.com/exmergo/dex/pull/1010) | Reconcile advisory proposals in native-only repos (Ossie, Cube, Slayer) while preserving load errors | 🟢 Open |
 | **[dex](https://github.com/exmergo/dex)** | [#1009](https://github.com/exmergo/dex/pull/1009) | Eliminate redundant duplicate contradiction notes for declared-unique dataset grain | 🟢 Open |
