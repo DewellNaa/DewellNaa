@@ -16,6 +16,16 @@
 
 </div>
 
+## ⭐ Featured Flagship Projects
+
+### 🚀 [AgentBridge](https://github.com/DewellNaa/agentbridge)
+**Ultra-lightweight local AI coding agent gateway & protocol bridge for Claude Code, Cursor, and Aider.**
+* ⚡ **Zero-Overhead Local Gateway**: Zero-config, single-binary / pip CLI, instant startup without Docker or heavy databases.
+* 🧠 **Thinking & Reasoning Stream Translation**: Bi-directional streaming conversion between DeepSeek-R1 / GLM-5.3 `delta.reasoning_content` and Claude 3.7 `thinking` content blocks.
+* 🛠️ **Tool Calling & MCP Multiplexer**: Seamless Anthropic `tool_use` to OpenAI function calling with robust partial-JSON streaming stitcher.
+
+---
+
 ## 🌐 Open-Source Contributions Landscape
 
 A curated showcase of core architectural contributions across Tier-1 AI Agent frameworks, LLM gateways, and semantic data systems:
