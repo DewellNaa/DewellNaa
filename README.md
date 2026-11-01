@@ -18,11 +18,12 @@
 
 ## ⭐ Featured Flagship Projects
 
-### 🚀 [AgentBridge](https://github.com/DewellNaa/agentbridge)
+### 🚀 [AgentBridge](https://github.com/DewellNaa/agentbridge) [![Latest Release](https://img.shields.io/github/v/release/DewellNaa/agentbridge?color=blue)](https://github.com/DewellNaa/agentbridge/releases) [![CI](https://github.com/DewellNaa/agentbridge/actions/workflows/ci.yml/badge.svg)](https://github.com/DewellNaa/agentbridge/actions)
 **Ultra-lightweight local AI coding agent gateway & protocol bridge for Claude Code, Cursor, and Aider.**
-* ⚡ **Zero-Overhead Local Gateway**: Zero-config, single-binary / pip CLI, instant startup without Docker or heavy databases.
+* ⚡ **Zero-Overhead Local Gateway**: Zero-config, single-command CLI, instant startup without Docker or heavy databases.
 * 🧠 **Thinking & Reasoning Stream Translation**: Bi-directional streaming conversion between DeepSeek-R1 / GLM-5.3 `delta.reasoning_content` and Claude 3.7 `thinking` content blocks.
-* 🛠️ **Tool Calling & MCP Multiplexer**: Seamless Anthropic `tool_use` to OpenAI function calling with robust partial-JSON streaming stitcher.
+* 🔌 **Native Model Context Protocol (MCP) Relay**: Auto-discovers local stdio MCP servers and injects tool definitions seamlessly into agent requests.
+* 📊 **Terminal Telemetry & Live Metrics**: Real-time TTFT tracking, reasoning token throughput counting, and Rich terminal dashboard.
 
 ---
 
