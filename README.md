@@ -25,6 +25,8 @@
 * 🧠 **Thinking & Reasoning Stream Translation**: Bi-directional streaming conversion between DeepSeek-R1 / GLM-5.3 `delta.reasoning_content` and Claude 3.7 `thinking` content blocks.
 * 🦙 **Ollama Local LLM Auto-Discovery**: Run `agentbridge start --ollama` to automatically benchmark, score, and select local coding models for 100% offline privacy coding.
 * 🔌 **Native Model Context Protocol (MCP) Relay**: Auto-discovers local stdio MCP servers and injects tool definitions seamlessly into agent requests.
+* 🛡️ **Multi-Key Load Balancing & Failover Pool**: Seamless request rotation and automatic transparent failover on 429 rate limits, 503 overloads, or network timeouts.
+* ✂️ **Context Budget Squeezer**: Intelligent two-stage compaction folding giant older tool outputs and conversation turns to avoid context overflow and save costs.
 * 📊 **Terminal Telemetry & Live Metrics**: Real-time TTFT tracking, reasoning token throughput counting, and Rich terminal dashboard.
 
 ---
