@@ -23,6 +23,7 @@
 * 🚀 **One-Shot Agent Wrapper (`agentbridge run`)**: Single-command execution (`agentbridge run claude`) with automated gateway lifecycle and environment injection.
 * ⚡ **Zero-Overhead Local Gateway**: Zero-config, single-command CLI, instant startup without Docker or heavy databases.
 * 🧠 **Thinking & Reasoning Stream Translation**: Bi-directional streaming conversion between DeepSeek-R1 / GLM-5.3 `delta.reasoning_content` and Claude 3.7 `thinking` content blocks.
+* 🦙 **Ollama Local LLM Auto-Discovery**: Run `agentbridge start --ollama` to automatically benchmark, score, and select local coding models for 100% offline privacy coding.
 * 🔌 **Native Model Context Protocol (MCP) Relay**: Auto-discovers local stdio MCP servers and injects tool definitions seamlessly into agent requests.
 * 📊 **Terminal Telemetry & Live Metrics**: Real-time TTFT tracking, reasoning token throughput counting, and Rich terminal dashboard.
 
